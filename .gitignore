@@ -1,0 +1,9 @@
+# Python cache ve derleme dosyaları
+__pycache__/
+*.pyc
+
+# Çevresel değişken dosyası
+.env
+
+# Sanal ortam dosyaları
+venv/
